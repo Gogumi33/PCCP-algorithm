@@ -1,3 +1,6 @@
+// check answer.. -> java.lang.Error
+import java.lang.*;
+
 public class Ex1 {
 	public static int[] solution(int[] array, int[][] commands) {
 		int[] answer = new int[commands.length]; // 3

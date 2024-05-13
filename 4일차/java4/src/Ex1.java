@@ -1,5 +1,3 @@
-package pack1;
-
 public class Ex1 {
 	public static int solution(String s) {
         
