@@ -1,4 +1,5 @@
 // import java.util.Scanner;
+// 잘 해결 완료 check.
 
 public class Ex3 {
 	public static int[] solution(int[] num_list, int n) {
