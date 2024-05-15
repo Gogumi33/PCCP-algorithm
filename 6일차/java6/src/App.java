@@ -5,5 +5,7 @@ public class App {
 
         int x = sc.nextInt();
         System.out.println(x);
+
+        System.out.println("hi");
     }
 }
